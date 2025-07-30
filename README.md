@@ -30,6 +30,7 @@ Full-stack RAG-supplemented chatbot application powered by FastAPI (backend), Re
 ### 1. Clone the Repository
 
 git clone <https://github.com/greent3/travisgpt.git>  
+  
 cd travisgpt
 
 ### 2. Add your own env variables to .env.example files and rename to .env
